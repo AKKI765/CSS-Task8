@@ -1,0 +1,68 @@
+.Fig1{
+
+    width: 150px;
+    height: 100px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 9px;
+
+}
+
+.Fig2{
+    width: 130px;
+    height: 90px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 11px;
+}
+
+.Fig3{
+    width: 100px;
+    height: 80px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 16px;
+}
+
+.Fig4{
+    width: 130px;
+    height: 80px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 10px;
+    
+}
+
+.Fig5{
+    width: 150px;
+    height: 100px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 3px;
+    
+}
+
+.Fig6{
+    width: 100px;
+    height: 80px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 20px;
+}
+
+.Fig7{
+    width: 200px;
+    height: 100px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 100px/50px;
+}
+
+.Fig8{
+    width: 150px;
+    height: 100px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 7px;
+}
+
+.Fig9{
+    width: 120px;
+    height: 90px;
+    border: 5px solid rgb(169, 152, 25);
+    border-radius: 7px 20px 7px 20px;
+    
+}
+
